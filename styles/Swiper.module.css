@@ -1,0 +1,9 @@
+.container {
+  position: relative;
+}
+
+.content {
+  position: relative;
+  display: flex;
+  height: 400px;
+}

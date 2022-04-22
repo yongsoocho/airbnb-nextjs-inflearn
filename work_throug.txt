@@ -1,0 +1,6 @@
+1. next create app
+2. version down grade
+3. directory
+4. ui
+5. swiper card
+
